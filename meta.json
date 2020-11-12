@@ -1,4 +1,5 @@
 {
 	"name":"DiceJs2",
-	"icon":"https://brandondevmn.github.io/DiceJs2/img/icon.jpg"
+	"icon":"https://brandondevmn.github.io/DiceJs2/img/icon.jpg",
+	"launch" :"https://brandondevmn.github.io/DiceJs2/"
 }
