@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.wrapper
+{
+    background-color: black;
+    color: white
+}
+
+.views
+{
+    height: 90%;
+}
+
+.tabs
+{
+    height: 10%;
+    border: black;
+    display: flex;
+}
